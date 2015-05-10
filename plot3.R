@@ -1,3 +1,5 @@
+# Download https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip and unzip it in your R working directory
+
 #Changing the LC_TIME local, so days are in English (Windows)
 #Sys.setlocale("LC_TIME", "English")
 
